@@ -1,0 +1,15 @@
+asgiref==3.6.0
+Django==4.1.7
+django-filter==23.1
+djangorestframework==3.14.0
+djangorestframework-simplejwt==5.2.2
+et-xmlfile==1.1.0
+Jinja2==3.1.2
+MarkupSafe==2.1.2
+psycopg2-binary==2.9.6
+PyJWT==2.6.0
+pytz==2022.7.1
+PyYAML==6.0
+render==1.0.0
+sqlparse==0.4.3
+tzdata==2022.7
